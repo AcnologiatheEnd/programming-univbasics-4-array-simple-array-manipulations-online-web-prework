@@ -62,5 +62,8 @@ def using_delete(instructors,jail)
 end
 
 amous_robots = ["Johnny 5", "R2D2", "Robocop"]
-def using_delete_at()
+num= 2
+def using_delete_at(amous_robots,num)
+  
+  
 
