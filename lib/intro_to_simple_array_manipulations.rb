@@ -64,6 +64,8 @@ end
 amous_robots = ["Johnny 5", "R2D2", "Robocop"]
 num= 2
 def using_delete_at(amous_robots,num)
-  
+  amous_robots.delete_at(num)
+end
+
   
 
